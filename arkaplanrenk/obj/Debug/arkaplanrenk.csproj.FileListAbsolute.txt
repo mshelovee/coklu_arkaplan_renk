@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\bin\Debug\arkaplanrenk.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\bin\Debug\arkaplanrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\bin\Debug\arkaplanrenk.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\arkaplanrenk\arkaplanrenk\obj\Debug\arkaplanrenk.pdb
